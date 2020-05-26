@@ -12,3 +12,4 @@ El Banco ABC está realizando varios proyectos de actualización tecnológica lo
 - Compensación de pago (Opcional)
 
 Principalmente el banco necesita un conjunto de servicios que representen sus necesidades internas de negocio, lo cual les permite desacoplar los servicios de los proveedores y así no depender de sus detalles.
+
